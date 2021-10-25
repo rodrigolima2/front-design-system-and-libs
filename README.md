@@ -7,6 +7,6 @@
 1. Pokedex
 
 Preencha a checklist para finalizar o exercício:
--   [ ] Forkar o repositório
+-   [x] Forkar o repositório
 
 ###### tags: `modulo-3` `frontend` `react-use` `material-ui`
